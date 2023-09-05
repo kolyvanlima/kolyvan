@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Gradiente de cores azuis</title>
+</head>
+<body>
+
+<script src="https://raw.githubusercontent.com/bard/gradiente-de-cores-azuis/main/gradiente.js"></script>
+
+<div id="gradiente"></div>
+
+<script>
+    gradiente.draw(document.getElementById("gradiente"));
+</script>
+
+</body>
+</html>
